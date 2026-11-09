@@ -1,5 +1,5 @@
 # Tiny Tapeout project information
-project:        "proyecto sumador"
+project:        
   title:        "8- bit adder"      # Project title
   author:       "Arturo Torres S."      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
